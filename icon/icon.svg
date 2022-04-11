@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <g id="icon" transform="translate(-340 -160)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="400" height="400" rx="16" transform="translate(340 160)" fill="#5490f9"/>
+    <text id="QR_Codes" data-name="QR Codes" transform="translate(385 300)" fill="#fff" font-size="45" font-family="Roboto-Medium, Roboto" font-weight="500" text-anchor="middle"><tspan x="155" y="47">QR Codes</tspan></text>
+    <text id="Generate" transform="translate(385 361)" fill="#fff" font-size="45" font-family="Roboto-Medium, Roboto" font-weight="500" text-anchor="middle"><tspan x="160" y="47">Generate</tspan></text>
+    <line id="Line_1" data-name="Line 1" x1="50" transform="translate(620 230)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_2" data-name="Line 2" y2="50" transform="translate(670 230)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_1-2" data-name="Line 1" x2="50" transform="translate(410 230)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_2-2" data-name="Line 2" y2="50" transform="translate(410 230)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_1-3" data-name="Line 1" x1="50" transform="translate(620 490)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_2-3" data-name="Line 2" y1="50" transform="translate(670 440)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_1-4" data-name="Line 1" x2="50" transform="translate(410 490)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+    <line id="Line_2-4" data-name="Line 2" y1="50" transform="translate(410 440)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="10"/>
+  </g>
+</svg>
